@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 0 problems · 0 labs · 6 math
+**7** solved · 1 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://MCatahayIDE.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-04 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 
 ## Math
 

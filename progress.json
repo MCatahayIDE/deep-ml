@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:48:41.447Z",
+  "generated_at": "2026-11-04T03:48:43.140Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -66,6 +66,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-05T08:53:54.456Z",
       "last_pushed_at": "2026-10-05T08:53:54.456Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-11-04T03:34:06.513Z",
+      "last_pushed_at": "2026-11-04T03:34:06.513Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
