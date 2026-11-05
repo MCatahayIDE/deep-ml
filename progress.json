@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:07:45.123Z",
+  "generated_at": "2026-11-05T04:13:25.880Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -90,6 +90,19 @@
       "path": "problems/0023-softmax-activation-function-implementation",
       "first_solved_at": "2026-11-04T04:07:44.760Z",
       "last_pushed_at": "2026-11-04T04:07:44.760Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-05T04:13:25.600Z",
+      "last_pushed_at": "2026-11-05T04:13:25.600Z",
       "language": "python",
       "lines": 13
     }
